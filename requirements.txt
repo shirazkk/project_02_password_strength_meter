@@ -1,2 +1,2 @@
 streamlit==1.25.0
-zlib1g-dev
+

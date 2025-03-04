@@ -128,7 +128,9 @@ if submit_button:
             st.warning("⚠️ Moderate Password - Consider adding more security features.")
         else:
             st.error("❌ Weak Password - Improve it using the suggestions below:")
+
         
         # Display all collected feedback messages
         for msg in feedback:
             st.info(msg)
+

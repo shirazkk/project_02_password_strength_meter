@@ -1,2 +1,1 @@
-streamlit 
-re
+streamlit==1.25.0
